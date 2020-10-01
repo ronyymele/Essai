@@ -1,2 +1,3 @@
 # Essai
-Essai de comphrehension git Hub
+Essai de comphrehension git Hub 
+bienvenu dans notre project de Git
